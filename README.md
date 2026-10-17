@@ -24,7 +24,7 @@ Software Engineering student at <b>Gümüşhane University</b> · Backend develo
 |---|---|---|
 | **[WatchIt](https://github.com/YusufUtkuBeygo/watchit)** | YouTube-style video platform with JWT auth, ownership checks and presigned uploads to object storage | Java · Spring Boot · PostgreSQL · Flyway · MinIO · React · Docker |
 | **[AVL Tree](https://github.com/YusufUtkuBeygo/AVL)** | Self-balancing BST from scratch with all four rotation cases, tested in CI | C++ |
-| **[Atatürk University Website](https://github.com/YusufUtkuBeygo/ataturk-university-website)** · [live](https://yusufutkubeygo.github.io/ataturk-university-website/) | 20-page responsive redesign of a university website | HTML · CSS · Bootstrap |
+| **[Atatürk University Website](https://github.com/YusufUtkuBeygo/ataturk-university-website)** · [live](https://yusufutkubeygo.github.io/ataturk-university-website/) | 21-page responsive redesign of a university website | HTML · CSS · Bootstrap |
 
 ### 🧰 Tech
 
