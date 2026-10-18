@@ -6,6 +6,7 @@ Software Engineering student at <b>Gümüşhane University</b> · Backend develo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yusuf-utku-beygo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://yusufutkubeygo.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-B3245B?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
